@@ -1,0 +1,10 @@
+.contianer {
+  border: 1px solid black;
+  height: 200px;
+}
+
+.child {
+  display: inline-block;
+  border: 1px solid red;
+  width: 200px;
+}

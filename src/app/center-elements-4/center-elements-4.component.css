@@ -1,0 +1,9 @@
+.contianer {
+  border: 1px solid black;
+  height: 200px;
+}
+
+.child {
+  border: 1px solid red;
+  position: absolute;
+}
